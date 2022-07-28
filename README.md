@@ -18,7 +18,7 @@
 
 <div align=center>
 
-<a href=""><img height=60 width=60 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg"/></a>
+<img height=60 width=60 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg"/>
 <a href=https://www.javascript.com><img height=60 width=60 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg"/></a>
 <a href=https://reactjs.org><img height=60 width=60 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/MobileAppDevelopment/reactnative.svg"/></a>
 <a href=https://nodejs.org><img width=60 height=60 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg"/></a>
