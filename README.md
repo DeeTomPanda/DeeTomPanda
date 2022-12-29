@@ -18,14 +18,14 @@
 
 <div align=center>
 
-<img height=60 width=60 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg"/>
-<a href=https://www.javascript.com><img height=60 width=60 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg"/></a>
-<a href=https://reactjs.org><img height=60 width=60 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/MobileAppDevelopment/reactnative.svg"/></a>
-<a href=https://nodejs.org><img width=60 height=60 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg"/></a>
-<a href=https://expressjs.com><img height=60 width=60 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/express.svg"/></a>
-<a href=https://www.mongodb.com/><img height=60 width=60 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mongodb.svg"/>
+<img height=60 width=60 src="https://icon2.cleanpng.com/20171220/dgw/letter-c-png-5a3a869353fec5.5541397315137849793441.jpg"/>
+<a href=https://www.javascript.com><img height=60 width=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"/></a>
+<a href=https://reactjs.org><img height=50 width=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/></a>
+<a href=https://nodejs.org><img width=60 height=60 src="https://w7.pngwing.com/pngs/322/725/png-transparent-node-js-javascript-npm-express-js-sharp-miscellaneous-angle-text-thumbnail.png"/></a>
+<a href=https://expressjs.com><img height=60 width=60 src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"/></a>
+<a href=https://www.mongodb.com/><img height=60 width=60 src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"/>
   </a>
-<a href=https://sass-lang.com><img width=60 height=60 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/sass.svg"/></a>
+<a href=https://sass-lang.com><img width=60 height=60 src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg"/></a>
 <a href=https://chakra-ui.com><img height=60 width=60 src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg"/></a>
 
 </div>
