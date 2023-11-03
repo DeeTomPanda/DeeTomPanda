@@ -25,7 +25,7 @@
 <a href=https://expressjs.com><img height=60 width=60 src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"/></a>
 <a href=https://www.mongodb.com/><img height=60 width=60 src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"/>
   </a>
-<a href=https://sass-lang.com><img width=60 height=60 src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg"/></a>
+<a href=https://www.rust-lang.org/><img width=60 height=60 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nf-7TC8cQrJ__td5IOWF2MfOqAtvHJYJj5A0-rc&s"/></a>
 <a href=https://chakra-ui.com><img height=60 width=60 src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg"/></a>
 
 </div>
